@@ -1,0 +1,14 @@
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\bin\Debug\WindowsFormsAppClient.exe.config
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\bin\Debug\WindowsFormsAppClient.exe
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\bin\Debug\WindowsFormsAppClient.pdb
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.csproj.AssemblyReference.cache
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.Form1.resources
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.Properties.Resources.resources
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.csproj.GenerateResource.cache
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.csproj.CoreCompileInputs.cache
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.exe
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.pdb
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PieLike\source\repos\WindowsFormsAppClient\obj\Debug\WindowsFormsAppClient.csproj.CopyComplete

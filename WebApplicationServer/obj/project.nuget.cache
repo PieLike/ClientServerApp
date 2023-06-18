@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZvLgRv5KrBxI1k2Uex0DVpBl3ik5xmgeoXX6iccftlIH5Rvwp6vo/KK54QK2enDqDkrfl1Sy/A1mFct1Nb0Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PieLike\\source\\repos\\WebApplicationServer\\WebApplicationServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PieLike\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
